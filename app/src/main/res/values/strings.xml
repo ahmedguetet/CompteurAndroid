@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CompteurAndroid</string>
+
+    <!-- Textes visibles de l'interface -->
+    <string name="titre">Mon compteur</string>
+    <string name="valeur_initiale">0</string>
+    <string name="plus">+</string>
+    <string name="moins">-</string>
+    <string name="plus_cinq">+5</string>
+    <string name="moins_cinq">-5</string>
+    <string name="reinitialiser">Réinitialiser</string>
+    <string name="message_reinitialisation">Compteur réinitialisé à 0</string>
+</resources>
